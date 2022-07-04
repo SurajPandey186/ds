@@ -1,2 +1,2 @@
 # ds
-Data Structure for Javascript
+Data Structure For Javascript
